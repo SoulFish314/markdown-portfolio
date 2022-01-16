@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Raindrops on Roses
+2. Whiskers on Kittens
+3. Thai Paradise Athens
+4. Warm Woolen Mittens
