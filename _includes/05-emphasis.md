@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### Skills
+- *Sound Editing*
+  - Logic Pro X
+  - Protools
+  - Ableton Live 11
+  - Reaper DAW
+- *Sound Synthesis*
+  - Pure Data
+  - Foley
+  - Piano and Saxophone Profeciency
+- *Live Mixing*
+  - Digital and Analog
+  - Experience with a large variety of content
